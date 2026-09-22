@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ded8eb143e6f5af4f8b4a51a",
+  "owner": "c7emb7unx",
+  "repo": "page-6c260256f79550e37172ef89",
+  "title": "长风破浪",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6c260256f79550e37172ef89",
+      "a": "长风破浪",
+      "b": "2027最新官网",
+      "entity": "长风破浪",
+      "brand": "长风破浪",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "510327d8b67c8bf1f9a8ee9f1ab4d9a0d6859f9e1f64cdfc27d30643e237c952",
+      "content": {
+        "primary_entity": "长风破浪",
+        "keyword1": "长风破浪",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按你的设备系统选择对应客户端，下载后导入订阅即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅就能连上属于自己的加速线路。",
+          "AI_CLOSING_TITLE": "开始长风破浪之旅",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助不同用户找到合适的上网加速方案。基础版每月 100GB 流量，适合手机与平板日常使用；旗舰版每月 300GB 流量，支持 5 台设备，并具备 IPLC 专线游戏加速；团队版每月 1000GB 流量，可同时登录 20 台设备，附带 VIP 高带宽节点与企业定制路由。按年付费更划算，基础版仅需 150 元一年，旗舰版 350 元一年，团队版 850 元一年。安装客户端并导入订阅后，即可按套餐权益使用相应线路。",
+          "AI_FEATURES_INTRO": "从套餐对比、设备数量到订阅周期，三个角度帮你快速决定。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版覆盖 5 台设备并支持游戏加速，团队版面向多设备高带宽需求。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑各有对应客户端，导入订阅后即可使用，无需额外复杂设置。",
+          "AI_FEATURE_TITLE_2": "按设备选客户端",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "长风破浪提供多档海外加速套餐，覆盖基础流媒体、IPLC 专线与高带宽节点。根据设备数量、流量需求和订阅周期，可以选择基础版、旗舰版或团队版，配置对应客户端后即可使用。",
+          "AI_HERO_SUBTITLE": "多档加速套餐，按需配置",
+          "AI_HIGHLIGHT_1": "月付年付可选，年付更省",
+          "AI_HIGHLIGHT_2": "从 3 台到 20 台设备覆盖",
+          "AI_HIGHLIGHT_3": "IPLC 专线支持游戏加速",
+          "AI_PLANS_INTRO": "基础版 15 元每月，旗舰版 35 元每月，团队版 85 元每月；年付分别只需 150 元、350 元、850 元。按流量和在线设备数选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TITLE_1": "确定套餐",
+          "AI_STEP_TEXT_2": "确认系统版本与设备是否满足套餐支持范围，比如旗舰版支持 5 台设备。",
+          "AI_STEP_TITLE_2": "检查适配",
+          "AI_STEP_TEXT_3": "下载对应客户端，按客户端说明导入订阅信息，连接相应节点即可。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "长风破浪加速体验",
+          "AI_FAQ_ANSWER_1": "基础版适合手机与笔记本共 3 台设备，旗舰版支持 5 台设备并含 IPLC 专线与流媒体解锁，团队版可 20 台设备在线，适合小型工作室或家庭多终端使用。",
+          "AI_FAQ_ANSWER_2": "套餐按月计费，年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可按需中途升级套餐。",
+          "AI_FAQ_ANSWER_3": "常用客户端包括 Windows 的 Clash Verge、macOS 的 ClashX Meta、iOS 的 Shadowrocket 与 Android 的 Clash Meta for Android，按客户端文档导入订阅链接即可。",
+          "AI_FAQ_ANSWER_4": "同一订阅在超出设备数量上限后，新设备将无法同时连接，可在客户端管理页面移除不常用设备或升级套餐获得更多设备位。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线节点，针对游戏加速与实时通信优化延迟，团队版提供 VIP 高带宽节点，适合对稳定性要求更高的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "套餐如何计费，可以按年付吗？",
+          "AI_FAQ_QUESTION_3": "支持哪些客户端软件？",
+          "AI_FAQ_QUESTION_4": "设备数量超限会怎样？",
+          "AI_FAQ_QUESTION_5": "游戏加速和流媒体解锁效果如何？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kwgdl.cn",
+    "host": "kwgdl.cn"
+  },
+  "file_hashes": {
+    "index.html": "5cdb42a873b13cea0f57205808683fb5454eba8dd3a5b544ada2d3c207ee1f45",
+    "sitemap.xml": "e75f179cde32ff3f4e3ea459344721e67c815e21374b4968f267eac7a9dc9219",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1109c6ad1158121a16926ce928a6241d1f322b6a35173a88c1d45f1b01ed1a44",
+    "robots.txt": "09e2b44ea4aba0900bf8b6fb48973b16b934dbdeb2944fa48cbeac0b00c59c76",
+    "1a1943747d22750e91d65e1568477d8e.txt": "d4cf81cc2245f81a2c870653dfe0a654e7b91e45d5df64677a5ef16359937158"
+  },
+  "revision": "6c04d246e63192ab3215dc94d9f73e246c2a64a790fa4906e0193d09a5a3e6e7"
+}
